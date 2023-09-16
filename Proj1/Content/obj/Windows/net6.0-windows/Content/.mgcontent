@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj1/Proj1/Content/asteroid.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj1/Proj1/Content/asteroid_explode.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj1/Proj1/Content/laser.png</File>
+    <File>C:/Users/aidan/Desktop/School/Senior2 - Fall 2023/Video Game Programming/PROJECTS/Proj1/Proj1/Content/ship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

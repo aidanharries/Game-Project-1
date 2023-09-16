@@ -1,0 +1,5 @@
+﻿All assets were create by Aidan Harries using Aesprite
+- asteroid.png
+- asteroid_explode.png
+- laser.png
+- ship.png
